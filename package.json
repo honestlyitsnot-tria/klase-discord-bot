@@ -1,0 +1,13 @@
+
+{
+  "name": "klase-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord community interaction endpoint",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
